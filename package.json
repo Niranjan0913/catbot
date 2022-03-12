@@ -6,7 +6,7 @@
   "scripts": {
     "start": "supervisor -s bot.js"
   },
-  "repository": {
+  "repository": {https://github.com/Niranjan0913/catbot}
     "type": "git",
     "url": "git+https://github.com/Itsmebasil8/catboz"
   },
